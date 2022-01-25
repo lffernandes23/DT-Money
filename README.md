@@ -11,10 +11,9 @@
 <h2> Funcionalidades</h2>
 
 <ul>
-    <p>Buscar uma atividade aleatoria</p>
-    <p>Buscar uma atividade pelo seu tipo</p>
-    <p>Buscar uma atividade pela sua chave</p>
-    <p>Listar as atividades marcadas como favoritas</p>
+    <p>Cadastrar um entrada</p>
+    <p>Cadastrar um Saida</p>
+    <p>Consultar o total</p>
 </ul>
 
 <h2> Instruções para rodar está aplicação </h2>
