@@ -17,7 +17,7 @@
     <p>Listar as atividades marcadas como favoritas</p>
 </ul>
 
-<h2>🔧 Instruções para rodar está aplicação</h2>
+<h2> Instruções para rodar está aplicação </h2>
 
 <strong>Obs. necessario ter node.js instalado no seu PC/Notebook.</strong>
 
