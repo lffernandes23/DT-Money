@@ -4,7 +4,7 @@
 
 <br />
 
-![Gif projeto](https://github.com/lffernandes23/gif-DT-Money/blob/main/DT-Money.gif)
+![DT Money](https://user-images.githubusercontent.com/82827767/151053685-a3f7b08d-7b5e-4d65-9457-5f529eb7596d.gif)
 
 <br />
 
