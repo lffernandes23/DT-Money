@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# DT Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Este projeto foi realizado utilizando React Js, Typescript e styled-components, pelo curso Ignite ReactJS da RocktSeat.</h1>
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
+![Gif projeto](https://github.com/lffernandes23/gif-DT-Money/blob/main/DT-Money.gif)
 
-### `npm start`
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h2> Funcionalidades</h2>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<ul>
+    <p>Buscar uma atividade aleatoria</p>
+    <p>Buscar uma atividade pelo seu tipo</p>
+    <p>Buscar uma atividade pela sua chave</p>
+    <p>Listar as atividades marcadas como favoritas</p>
+</ul>
 
-### `npm test`
+<h2>🔧 Instruções para rodar está aplicação</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<strong>Obs. necessario ter node.js instalado no seu PC/Notebook.</strong>
 
-### `npm run build`
+<p>1° - Clone o repositorio utilizando o seu terminal de preferencia</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+   git clone git@github.com/lffernandes23/DT-Money.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>2° - Abra a pasta dtmoney instale as dependencias na pasta e inicie o projeto</p>
 
-### `npm run eject`
+```bash
+   cd dtmoney && yarn && yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h2>Bibliotecas / Linguagens</h2>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [React](https://pt-br.reactjs.org/) - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+* [TypeScript](https://www.typescriptlang.org/) - TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.
+* [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start) - O React Router é uma biblioteca para controle de rotas.
+* [styled-components](https://styled-components.com/) - styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação.
