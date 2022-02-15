@@ -1,6 +1,6 @@
 # DT Money
 
-<h3>Este projeto foi realizado utilizando React Js, Typescript e styled-components, pelo curso Ignite ReactJS da RocktSeat.</h3>
+<h3>Este projeto foi realizado utilizando React Js, Typescript e styled-components, pelo curso Ignite ReactJS da RocketSeat.</h3>
 
 <br />
 
