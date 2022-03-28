@@ -11,8 +11,8 @@
 <h2> Funcionalidades</h2>
 
 <ul>
-    <p>Cadastrar um entrada</p>
-    <p>Cadastrar um Saida</p>
+    <p>Cadastrar uma entrada</p>
+    <p>Cadastrar uma Saida</p>
     <p>Consultar o total</p>
 </ul>
 
